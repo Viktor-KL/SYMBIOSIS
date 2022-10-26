@@ -1,0 +1,400 @@
+@media screen and (max-width: 1200px){
+	.button{
+		padding: 14px 20px;
+		margin-left: 6px;
+		font-size: 14px;
+	}
+	.nav__line{
+		padding: 0px 2px;
+	}
+	.header__mintBlock{
+		left: 210px;
+	}
+	.header__logo{
+		width: 80%;
+	}
+	.about__subtitle{
+		font-size: 21px;
+	}
+	.about__textBlock{
+		width: 575px;
+	}
+	.smb__blockTitle{
+		font-size: 98px;
+	}
+	.smb__subtitle{
+		font-size: 16px;
+	}
+	.title{
+		font-size: 70px;
+	}
+	.smb__block{
+		background-position: 0 50px;
+	}
+	.smb__block2{
+		background-position: 0 80px !important;
+	}
+	.smb__block3{
+	    background-position: 20px 60px !important;
+	}
+	.subtitle{
+		font-size: 18px;
+	}
+	.breeding{
+		background-position: 505px 80px;
+	}
+	.join__title{
+		font-size: 36px;
+	}
+	.join__input, .join__button{
+		height: 50px;
+		font-size: 15px;
+	}
+	.join__formSubtitle{
+		font-size: 15px;
+	}
+	.team__icon1, .team__icon2{
+		width: 100%;
+	}
+}
+
+
+
+@media screen and (max-width: 992px){
+	.button{
+		padding: 12px;
+	}
+	.hide768{
+		display: none;
+	}
+	.nav__links{
+		font-size: 16px;
+	}
+	.nav__linkWrap{
+		text-align: right !important;
+	}
+	.nav__button{
+		padding: 11px 11px;
+    	margin-left: 1px;
+	}
+	.logo{
+		width: 100%;
+	}
+	header{
+		height: 600px;
+		background-size: 70%;
+	}
+	.header__mintTxt{
+		font-size: 28px;
+	}
+	.header__mintBlock{
+		left: 110px;
+		top: -30px;
+		width: 160px;
+	}
+	.header__logo{
+		top: 440px;
+	}
+	.about{
+		background-position: -40px 270px;
+	}
+	.about__textBlock{
+		width: 450px;
+	}
+	.title{
+		font-size: 60px;
+	}
+	.smb__underTitle{
+		font-size: 18px;
+	}
+	.smb__block{
+		padding-top: 180px;
+	}
+	.smb__blockTitle {
+	    font-size: 68px;
+	}
+	.smb__block {
+	    background-position: 0 30px;
+	}
+	.smb__block2 {
+	    background-position: 0 50px !important;
+	}
+	.smb__block3 {
+	    background-position: 20px 40px !important;
+	}
+	.smb__subtitle {
+	    font-size: 15px;
+	}
+	.breeding{
+		padding: 60px 0;
+		background-position: 375px 60px;
+	}
+		.breeding__subtitle {
+	    width: 450px;
+	}
+	.subtitle{
+		font-size: 16px;
+	}
+	.join__title {
+	    font-size: 24px;
+	}
+	.join__input, .join__button {
+	    height: 40px;
+	    font-size: 14px;
+	}
+	.join__block{
+		width: 432px;
+		margin-top: 60px;
+	}
+	.join__input{
+		width: 276px;
+		margin-right: 6px;
+	}
+	.join__button{
+		width: 110px;
+	}
+	.join__formSubtitle{
+		font-size: 14px;
+		width: 440px;
+	}
+	.join{
+		padding: 60px 0;
+	    background-position: 0 237px;
+	}
+	.team__name{
+		font-size: 12px;
+	}
+	.accordion{
+		font-size: 17px;
+	}
+	.footer__links{
+		font-size: 21px;
+	}
+
+}
+
+
+@media screen and (max-width: 576px){
+	.hide576{
+		display: none;
+	}
+	.nav__button {
+	    padding: 16px 24px;
+	    margin-left: 1px;
+	    font-size: 16px;
+	    text-align: right;
+	}
+	.header__mintBlock {
+	    left: 0px;
+	    top: 470px;
+	    width: 100%;
+	}
+	header{
+		height: 600px;
+	    background-size: 80%;
+	    background-position: center 20px;
+	}
+	.header__logo {
+	    top: 380px;
+	}
+	.header__mintBlock{
+		position: inherit;
+		margin-top: 420px;
+		width: 100%;
+		top: 0;
+	}
+	.about__textBlock {
+	    width: 350px;
+	}
+	.about {
+	    background-position: -30px 370px;
+	}
+	.title {
+	    font-size: 48px;
+	}
+	.smb{
+		margin: 30px 0;
+	}
+	.smb__block, .smb__block2{
+		background-size: 40% !important;
+		background-position:  center 20px !important;
+		padding-top: 230px;
+	}
+	.smb__subtitle {
+	    font-size: 16px;
+	    width: 300px;
+	    margin: 0 auto;
+	}
+	.smb__block3{
+		padding-top: 300px;
+	}
+	.smb__block4{
+		padding-top: 270px;
+	}
+	.join{
+		padding: 60px 0;
+	    background-position: 150px -83px;
+	}
+	.team__icon1, .team__icon2 {
+	    width: 80%;
+	}
+	.faq{
+		margin-top: 40px;
+	}
+	.faq__subtitle{
+		font-size: 15px;
+	}
+	.footer__logo{
+		width: 40%;
+	}
+	.footer__links{
+		font-size: 18px;
+		margin-left: 30px;
+	}
+
+}
+
+
+
+@media screen and (max-width: 576px){
+	.nav__linkWrap{
+		display: none;
+	}
+	.nav__button{
+		padding: 12px 24px;
+		font-size: 14px;
+		margin: 0;
+	}
+	header{
+		height: 460px;
+		background-size: 110%;
+    	background-position: -40px 0px;
+	}
+	.header__logo{
+		top: 330px;
+		width: 100%;
+	}
+	.header__mintBlock{
+		margin-top: 360px;
+		padding: 8px;
+	}
+	.about{
+		background: none;
+		padding: 60px 0;
+	}
+	.title{
+		font-size: 40px;
+	}
+	.smb__underTitle {
+	    font-size: 14px;
+	}
+	.smb__block, .smb__block2{
+		background-size: 80% !important;
+		padding-top: 270px;
+	}
+	.smb__blockTitle {
+	    font-size: 110px;
+	    margin: 0;
+	    padding: 0;
+	}
+	.smb__subtitle{
+		width: 240px;
+		font-size: 15px;
+	}
+	.smb__block3{
+		padding-top: 370px;
+	}
+	.smb__block4{
+		padding-top: 320px;
+	}
+	.subtitle{
+		font-size: 14px;
+	}
+	.breeding__subtitle {
+	    width: 340px;
+	}
+	.breeding {
+	    padding: 300px 0 60px;
+	    background-position: center 20px;
+        background-size: 120%;
+	}
+	.join {
+	    padding: 243px 0 60px;
+	    background-position: -90px 27px;
+	    background-size: 210%;
+	}
+	.join__block {
+	    width: 340px;
+	    margin-top: 30px;
+	}
+	.join__title {
+	    font-size: 18px;
+	}
+	.join__input{
+		width: 100%;
+	}
+	.join__button {
+	    width: 100%;
+	    margin-top: 16px;
+	}
+	.join__formSubtitle{
+		width: 341px;
+		margin-top: 16px;
+	}
+	.accordion {
+	    font-size: 16px;
+	}
+	.faq__subtitle {
+	    font-size: 13px;
+	}
+	footer {
+	    margin-top: 0px;
+	    padding: 20px 0;
+	}
+	.footer__links {
+	    font-size: 14px;
+	    margin-left: 8px;
+	}
+	.foot__scaryImg{
+		width: 60%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
